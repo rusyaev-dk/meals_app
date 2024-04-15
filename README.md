@@ -17,17 +17,15 @@ The Meals App is a mobile application designed for browsing and managing a varie
     <td>
       <img src="/screenshots/meals_list_screen.png" alt="Meals list screen" title="Meals list screen" width="200"/>
     </td>
-  </tr>
-  <tr>
-    <td>
+     <td>
       <img src="/screenshots/meal_details_screen.png" alt="Meal details screen" title="Meal details screen" width="200"/>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="/screenshots/favourites_screen.png" alt="Meal details screen" title="Meal details screen" width="200"/>
     </td>
-  </tr>
-  <tr>
-    <td>
+     <td>
       <img src="/screenshots/drawer.png" alt="Filters Screen" title="Filters Screen" width="200"/>
     </td>
      <td>
