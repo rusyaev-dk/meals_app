@@ -23,12 +23,15 @@ The Meals App is a mobile application designed for browsing and managing a varie
       <img src="/screenshots/meal_details_screen.png" alt="Meal details screen" title="Meal details screen" width="200"/>
     </td>
     <td>
-      <img src="/screenshots/filters_screen.png" alt="Filters Screen" title="Filters Screen" width="200"/>
+      <img src="/screenshots/favourites_screen.png" alt="Meal details screen" title="Meal details screen" width="200"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"> <!-- This will center the image in the middle if it's alone in a row -->
-      <img src="/screenshots/favourites_screen.png" alt="Favourites Screen" title="Favourites Screen" width="200"/>
+    <td>
+      <img src="/screenshots/drawer.png" alt="Filters Screen" title="Filters Screen" width="200"/>
+    </td>
+     <td>
+      <img src="/screenshots/filters_screen.png" alt="Filters Screen" title="Filters Screen" width="200"/>
     </td>
   </tr>
 </table>
