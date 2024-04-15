@@ -8,11 +8,31 @@ The Meals App is a mobile application designed for browsing and managing a varie
 - **Favorites**: Users have the ability to add dishes to a favorites list for quick access later.
 
 ## Screenshots
-![Main menu](/screenshots/main_menu_screen.png "Main menu")
-![Meals list screen](/screenshots/meal_list_screen.png "Meals list screen")
-![Meal details screen](/screenshots/meal_details_screen.png "Meal details screen")
-![Filters Screen](/screenshots/filters_screen.png "Filters Screen")
-![Favourites Screen](/screenshots/favourites_screen.png "Favourites Screen")
+
+<table>
+  <tr>
+    <td>
+      <img src="/screenshots/main_menu_screen.png" alt="Main menu" title="Main menu" width="200"/>
+    </td>
+    <td>
+      <img src="/screenshots/meals_list_screen.png" alt="Meals list screen" title="Meals list screen" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/screenshots/meal_details_screen.png" alt="Meal details screen" title="Meal details screen" width="200"/>
+    </td>
+    <td>
+      <img src="/screenshots/filters_screen.png" alt="Filters Screen" title="Filters Screen" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"> <!-- This will center the image in the middle if it's alone in a row -->
+      <img src="/screenshots/favourites_screen.png" alt="Favourites Screen" title="Favourites Screen" width="200"/>
+    </td>
+  </tr>
+</table>
+
 
 ## Technology
 The logic of the application is powered by the Provider package, which is used for state management across the app.
