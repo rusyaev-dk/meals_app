@@ -3,10 +3,6 @@
 ## Overview
 The Meals App is a mobile application designed for browsing and managing a variety of culinary recipes. Users can explore different dishes and apply filters to refine the list according to their preferences.
 
-## Key Features
-- **Dish Filters**: Users can filter dishes based on specific criteria to find exactly what they're looking for.
-- **Favorites**: Users have the ability to add dishes to a favorites list for quick access later.
-
 ## Screenshots
 
 <table>
@@ -34,6 +30,9 @@ The Meals App is a mobile application designed for browsing and managing a varie
   </tr>
 </table>
 
+## Key Features
+- **Dish Filters**: Users can filter dishes based on specific criteria to find exactly what they're looking for.
+- **Favorites**: Users have the ability to add dishes to a favorites list for quick access later.
 
 ## Technology
 The logic of the application is powered by the Provider package, which is used for state management across the app.
