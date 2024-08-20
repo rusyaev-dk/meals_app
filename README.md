@@ -1,6 +1,5 @@
-# Meals App
+# :book: Meals App
 
-## Overview
 The Meals App is a mobile application designed for browsing and managing a variety of culinary recipes. Users can explore different dishes and apply filters to refine the list according to their preferences.
 
 ## Screenshots
