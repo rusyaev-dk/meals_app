@@ -1,12 +1,39 @@
-# Meals App
+# :book: Meals App
 
-## Overview
 The Meals App is a mobile application designed for browsing and managing a variety of culinary recipes. Users can explore different dishes and apply filters to refine the list according to their preferences.
+
+## Screenshots
+
+<table>
+  <tr>
+    <td>
+      <img src="/screenshots/main_menu_screen.png" alt="Main menu" title="Main menu" width="200"/>
+    </td>
+    <td>
+      <img src="/screenshots/meals_list_screen.png" alt="Meals list screen" title="Meals list screen" width="200"/>
+    </td>
+     <td>
+      <img src="/screenshots/meal_details_screen.png" alt="Meal details screen" title="Meal details screen" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/screenshots/favourites_screen.png" alt="Favourites screen" title="Favourites screen" width="200"/>
+    </td>
+     <td>
+      <img src="/screenshots/drawer.png" alt="Drawer" title="Drawer" width="200"/>
+    </td>
+     <td>
+      <img src="/screenshots/filters_screen.png" alt="Filters Screen" title="Filters Screen" width="200"/>
+    </td>
+  </tr>
+</table>
 
 ## Key Features
 - **Dish Filters**: Users can filter dishes based on specific criteria to find exactly what they're looking for.
 - **Favorites**: Users have the ability to add dishes to a favorites list for quick access later.
 
+<<<<<<< HEAD
 ## Screenshots
 ![Main menu](/screenshots/main_menu_screen.png "Main menu")
 ![Meals list screen](/screenshots/meals_list_screen.png "Meals list screen")
@@ -14,6 +41,8 @@ The Meals App is a mobile application designed for browsing and managing a varie
 ![Filters Screen](/screenshots/filters_screen.png "Filters Screen")
 ![Favourites Screen](/screenshots/favourites_screen.png "Favourites Screen")
 
+=======
+>>>>>>> b623808779739e4244c2616a8ebb69fa22c2be61
 ## Technology
 The logic of the application is powered by the Provider package, which is used for state management across the app.
 
