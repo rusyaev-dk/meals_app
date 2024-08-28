@@ -14,11 +14,3 @@ The Meals App is a mobile application designed for browsing and managing a varie
 
 ## Technology
 The logic of the application is powered by the Provider package, which is used for state management across the app.
-
-## Getting Started
-To get started with the Meals App, clone this repository and ensure you have Flutter installed on your machine.
-
-```bash
-git clone https://github.com/rusyaev-dk/meals_app.git
-cd meals_app
-flutter run
