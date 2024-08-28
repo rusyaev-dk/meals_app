@@ -9,7 +9,7 @@ The Meals App is a mobile application designed for browsing and managing a varie
 
 ## Screenshots
 ![Main menu](/screenshots/main_menu_screen.png "Main menu")
-![Meals list screen](/screenshots/meal_list_screen.png "Meals list screen")
+![Meals list screen](/screenshots/meals_list_screen.png "Meals list screen")
 ![Meal details screen](/screenshots/meal_details_screen.png "Meal details screen")
 ![Filters Screen](/screenshots/filters_screen.png "Filters Screen")
 ![Favourites Screen](/screenshots/favourites_screen.png "Favourites Screen")
